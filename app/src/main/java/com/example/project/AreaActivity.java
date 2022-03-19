@@ -50,4 +50,7 @@ public class AreaActivity extends AppCompatActivity {
             }
         });
     }
+
+    public void Intent(View view) {
+    }
 }
